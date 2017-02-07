@@ -1,5 +1,5 @@
 //
-//  ViewController.h
+//  VC3.h
 //  PenTabbar
 //
 //  Created by user on 2017/2/3.
@@ -8,8 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface ViewController : UIViewController
-
+@interface VC3 : UIViewController
 
 @end
-
